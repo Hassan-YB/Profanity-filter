@@ -9,3 +9,6 @@ To install all the dependencies.
 Run > python vosk.py video-file-name
 
 It will output a audio profanity muted file
+
+Note:
+Make sure you have ffmpeg installed 
